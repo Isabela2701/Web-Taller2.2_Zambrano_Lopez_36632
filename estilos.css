@@ -44,3 +44,10 @@ html {
     color: #888888;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.Boton__idiomas {
+    max-width: 39rem;
+    margin: 0 auto 2rem;
+    display: flex;
+    justify-content: flex-end;
+}
