@@ -51,3 +51,11 @@ html {
     display: flex;
     justify-content: flex-end;
 }
+ 
+.Boton__idiomas select {
+    background-color: #f4f4f4;
+    border-radius: 0.6rem;
+    padding: 0.8rem 1.3rem;
+    font-size: 0.95rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
