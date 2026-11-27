@@ -23,7 +23,7 @@ html {
 }
 
 
-.logo-icono{
+.logo-icono {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,7 +33,7 @@ html {
     border-radius: 7px;
 }
 
-.titulo-app{
+.titulo-app {
     font-size: 20px;
     font-weight: 700;
     color: #2c67c9;
@@ -45,7 +45,7 @@ html {
 }
 
 
-.barra__controles{
+.barra__controles {
 
     display: flex;
     justify-content: space-between;
@@ -54,8 +54,15 @@ html {
     margin-bottom: 50px;
 }
 
+.caja__busqueda {
+    position: relative;
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
 .Lista__significados {
-    max-width: 39rem; 
+    max-width: 39rem;
     margin: 2rem auto;
     padding-left: 1.5rem;
     font-family: Arial, Helvetica, sans-serif;
@@ -68,7 +75,7 @@ html {
 }
 
 .Lista__significados li::marker {
-    color: #0169D1; 
+    color: #0169D1;
 }
 
 .Lista__significados p {
@@ -81,7 +88,7 @@ html {
     margin-right: 0.3rem;
 }
 
-.pie{
+.pie {
     max-width: 39rem;
     margin: 2rem auto 1rem;
     padding-top: 1rem;
@@ -97,7 +104,7 @@ html {
     display: flex;
     justify-content: flex-end;
 }
- 
+
 .Boton__idiomas select {
     background-color: #f4f4f4;
     border-radius: 0.6rem;
