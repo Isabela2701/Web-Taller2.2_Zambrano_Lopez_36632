@@ -33,6 +33,27 @@ html {
     border-radius: 7px;
 }
 
+.titulo-app{
+    font-size: 20px;
+    font-weight: 700;
+    color: #2c67c9;
+}
+
+.logo-icono i {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+
+.barra__controles{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 50px;
+}
+
 .Lista__significados {
     max-width: 39rem; 
     margin: 2rem auto;
