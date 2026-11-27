@@ -215,3 +215,17 @@ html {
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.Sinonimos {
+    width: 39rem;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.sinonimos__titulo {
+    color: #888888;
+    font-weight: 700;
+    margin-right: 1rem;
+}
