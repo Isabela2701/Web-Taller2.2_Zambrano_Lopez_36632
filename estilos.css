@@ -229,3 +229,9 @@ html {
     font-weight: 700;
     margin-right: 1rem;
 }
+
+.sinonimos__palabra {
+    color: #0169D1;
+    font-weight: 900;
+    margin-right: 0.6rem;
+}
