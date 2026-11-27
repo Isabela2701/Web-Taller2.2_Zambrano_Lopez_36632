@@ -8,6 +8,16 @@ html {
     font-size: 15px;
 }
 
+.logo-icono{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: #3170d6;
+    border-radius: 7px;
+}
+
 .Lista__significados {
     max-width: 39rem; 
     margin: 2rem auto;
