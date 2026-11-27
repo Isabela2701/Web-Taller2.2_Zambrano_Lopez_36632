@@ -80,6 +80,13 @@ html {
     font-weight: 600;
 }
 
+.icono-lupa {
+    position: absolute;
+    right: 16px;
+    font-size: 16px;
+    color: #333333;
+    pointer-events: none;
+}
 .caja__idioma{
 
 }
