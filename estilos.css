@@ -156,6 +156,13 @@ html {
     background-color: #3185cf;
 }
 
+.Palabra__Centro{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #3a3a3a;
+    margin-bottom: 12px;
+}
 .Lista__significados {
     max-width: 39rem;
     margin: 2rem auto;
