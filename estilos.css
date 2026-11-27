@@ -89,6 +89,10 @@ html {
 }
 .caja__idioma{
 
+    position: relative;
+    width: 155px;
+    display: flex;
+    align-items: center;
 }
 
 .Lista__significados {
