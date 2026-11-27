@@ -8,6 +8,21 @@ html {
     font-size: 15px;
 }
 
+
+.contenedor {
+    max-width: 650px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.cabecera {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+
 .logo-icono{
     display: flex;
     align-items: center;
