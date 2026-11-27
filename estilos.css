@@ -120,6 +120,42 @@ html {
     pointer-events: none;
 }
 
+.resultado-principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.palabra-titulo {
+    font-size: 40px;
+    font-weight: 800;
+    color: #2b2b2b;
+    letter-spacing: -0.5px;
+}
+
+.boton-play {
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background-color: #439be6;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.boton-play i {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 4px;
+}
+
+.boton-play:hover {
+    background-color: #3185cf;
+}
+
 .Lista__significados {
     max-width: 39rem;
     margin: 2rem auto;
