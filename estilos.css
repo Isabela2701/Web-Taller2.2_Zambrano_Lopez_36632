@@ -168,7 +168,14 @@ body {
     font-weight: 700;
     color: #3a3a3a;
     margin-bottom: 12px;
+    background: linear-gradient(#eeeeee, #eeeeee) center / 100% 1px no-repeat;
 }
+
+.Palabra__Centro span{
+    background-color: #ffffff;
+    padding: 0 14px;
+}
+
 .Lista__significados {
     max-width: 39rem;
     margin: 2rem auto;
