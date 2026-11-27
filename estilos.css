@@ -61,6 +61,24 @@ html {
     align-items: center;
 }
 
+.caja__busqueda input {
+    width: 100%;
+    height: 44px;
+    background-color: #f3f3f5;
+    border: none;
+    border-radius: 10px;
+    padding: 0 40px 0 20px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #444444;
+    text-align: center;
+    outline: none;
+}
+
+.caja__idioma{
+
+}
+
 .Lista__significados {
     max-width: 39rem;
     margin: 2rem auto;
